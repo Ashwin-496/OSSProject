@@ -33,6 +33,7 @@ This project explores open-source concepts using Linux and shell scripting. It i
 ## 📂 Project Structure
 
 linux-shell-project/
+
 │── system_identity_report.sh
 
 │── foss_package_inspector.sh
@@ -96,6 +97,8 @@ Analyzes system authentication logs to detect failed logins, successful logins, 
  bash
 
   ./script_name.sh
+
+---
 
 Example:
 
