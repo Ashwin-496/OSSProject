@@ -30,7 +30,7 @@ This project explores open-source concepts using Linux and shell scripting. It i
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 linux-shell-project/
 
@@ -79,7 +79,7 @@ Analyzes system authentication logs to detect failed logins, successful logins, 
 
 ---
 
-## 🚀 How to Run Scripts
+## How to Run Scripts
 
 1. Open terminal in project directory
 
