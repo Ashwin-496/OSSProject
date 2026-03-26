@@ -1,14 +1,14 @@
 # OSSProject
 
-# 🔐 Linux Shell Scripting Project (Open Source Study)
+# Linux Shell Scripting Project (Open Source Study)
 
-## 📌 Project Overview
+## Project Overview
 
 This project explores open-source concepts using Linux and shell scripting. It includes multiple scripts designed to perform system analysis, automation, and log monitoring tasks. The project demonstrates both theoretical understanding and practical implementation in a Linux environment.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - To understand open-source software concepts
 
@@ -20,7 +20,7 @@ This project explores open-source concepts using Linux and shell scripting. It i
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Linux (Kali Linux)
 
@@ -51,29 +51,29 @@ linux-shell-project/
 
 ---
 
-## ⚙️ Scripts Description
+## Scripts Description
 
-### 🟢 Script 1: System Identity Report
+### Script 1: System Identity Report
 
 Displays system details such as user, kernel version, uptime, and distribution.
 
-### 🟢 Script 2: Package Inspector
+### Script 2: Package Inspector
 
 Checks whether a specific software package is installed and provides basic details.
 
-### 🟢 Script 3: Disk & Permission Auditor
+### Script 3: Disk & Permission Auditor
 
 Analyzes important directories and displays their permissions and disk usage.
 
-### 🟢 Script 4: Keyword Counter
+### Script 4: Keyword Counter
 
 Reads a log file and counts occurrences of specific keywords like ERROR or WARNING.
 
-### 🟢 Script 5: Manifesto Generator
+### Script 5: Manifesto Generator
 
 Takes user input and generates a personalized open-source manifesto file.
 
-### 🔵 Script 6: Advanced Log File Analyzer
+### Script 6: Advanced Log File Analyzer
 
 Analyzes system authentication logs to detect failed logins, successful logins, invalid users, and suspicious IP activity.
 
@@ -108,7 +108,7 @@ Example:
 
 ---
 
-##📊 Features
+## Features
 
 - System information reporting
 
@@ -124,7 +124,7 @@ Example:
 
 ---
 
-##📚 Learning Outcomes
+## Learning Outcomes
 
 - Understanding Linux system structure
 
@@ -136,12 +136,13 @@ Example:
 
 ---
 
-##📜 License
+## License
 
 This project follows open-source principles and is based on the GNU General Public License (GPL).
 
+---
 
-##👨‍💻 Author
+## Author
 
 Ashwin
 
