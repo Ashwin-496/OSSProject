@@ -104,7 +104,7 @@ Example:
 
  bash
   
-  ./script6_log_analyzer.sh
+  ./log_analyzer.sh
 
 ---
 
